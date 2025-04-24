@@ -82,9 +82,9 @@ ArtworkApp/
 
 ---
 <p align="center">
-  <img src="Assets/main_screen.png" alt="Main Screen" width="400"/>
+  <img src="Assets/main_screen.png" alt="Main Screen" width="400"/>  <img src="Assets/detail_view.png" alt="Detail View" width="400"/>
   <br/>
-  <img src="Assets/detail_view.png" alt="Detail View" width="400"/>
+ 
 </p>
 ## 👨‍💻 Author
 
