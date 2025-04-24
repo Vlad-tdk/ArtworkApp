@@ -5,8 +5,6 @@
 **ArtworkApp** is a demonstration iOS application that displays a gallery of artworks with animated transitions, asynchronously generated placeholder images, and runtime method injection using Objective-C.
 
 ---
-![Main Screen](Assets/main_screen.png)
-![Detail View](Assets/detail_view.png)
 
 ## 📱 Features
 
@@ -83,8 +81,12 @@ ArtworkApp/
 - Use Core Data for persistent local storage
 
 ---
-
+<p align="center">
+  <img src="Assets/main_screen.png" alt="Main Screen" width="400"/>
+  <br/>
+  <img src="Assets/detail_view.png" alt="Detail View" width="400"/>
+</p>
 ## 👨‍💻 Author
 
-Developed by [Vladimir Martemianov](https://github.com/yourusername)  
+Developed by [Vlad](https://github.com/Vlad-tdk)  
 Tech: Objective-C, UIKit, Runtime API
